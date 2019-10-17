@@ -1,2 +1,0 @@
-Standard output and standard error from test.XCCov-Demo with process ID 21092 beginning at 07:53:39.432
-
